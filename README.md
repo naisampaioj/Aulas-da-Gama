@@ -1,2 +1,2 @@
 # Aulas da Gama
- Atividades desenvolvidas durante curso da Gama Academy
+ Atividades desenvolvidas durante curso da Gama Academy.
